@@ -10,4 +10,4 @@
 
 本站专为广大影迷提供最新、最热门的电影、电视剧以及综艺节目资源。无论是爱情、悬疑、科幻，还是经典的电视剧，我们的资源都能满足不同观众的口味。平台提供高速、稳定的视频播放体验，支持多设备同步观看。无需任何注册，即点即播，随时随地享受高清影视资源。欢迎加入我们的影视世界，发现更多精彩内容。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ty20250708/ty14 ）</span>
